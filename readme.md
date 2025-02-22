@@ -6,3 +6,5 @@ Can be easily put into an Apple "Shortcut" for quick access. Click the below lin
 
 Enable: <https://www.icloud.com/shortcuts/1c3512a605864c86a098ddbc60ec08e0>
 Disable: <https://www.icloud.com/shortcuts/a6d51fc9e2ee470881054e2bd1d45fd3>
+
+https://github.com/user-attachments/assets/6c6d646e-4858-4823-87ca-0d400bfd1f02
